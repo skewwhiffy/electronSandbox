@@ -1,0 +1,1 @@
+start powershell "nodemon -e js,html -x npm start"
